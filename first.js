@@ -6,7 +6,8 @@ function feetToMile(num){
         var mile = num/5280;
     }
     else{
-        return "you shuld not use negative value"
+        return "you shuld not use negative value, this is from developer"
+
     }
     
     return mile;
